@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spaceships>
+    <spaceship>
+        <name>Falcon</name>
+        <numberOfCrew>10</numberOfCrew>
+    </spaceship>
+    <spaceship>
+        <name>Strom</name>
+        <numberOfCrew>25</numberOfCrew>
+
+    </spaceship>
+    <spaceship>
+        <name>Serum</name>
+        <numberOfCrew>9</numberOfCrew>
+    </spaceship>
+</spaceships>
